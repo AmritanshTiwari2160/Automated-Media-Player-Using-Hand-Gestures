@@ -23,16 +23,19 @@ cd automated-media-player
  ``` 
 
 3. Install Dependencies:
+```
 pip install opencv-python mediapipe pyautogui
-Running the Project
+```
 
-4. Navigate to the Project Directory:
+5. Navigate to the Project Directory:
 cd automated-media-player
 
-5. Run the Python Script:
+6. Run the Python Script:
+```
 python media_player.py
+```
 
-6. Usage:<br/>   
+8. Usage:<br/>   
 Ensure your webcam is connected and working.<br/> 
 The script will open a window showing the video feed from your webcam.<br/> 
 Use the following gestures to control media playback:<br/> 
