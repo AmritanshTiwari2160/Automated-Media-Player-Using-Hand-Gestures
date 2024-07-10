@@ -28,9 +28,11 @@ pip install opencv-python mediapipe pyautogui
 ```
 
 5. Navigate to the Project Directory:
+```
 cd automated-media-player
+```
 
-6. Run the Python Script:
+7. Run the Python Script:
 ```
 python media_player.py
 ```
