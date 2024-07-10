@@ -16,9 +16,11 @@ Python 3.x
 Pip (Python package installer)
 
 2. Installation:
-Clone the Repository:
+Clone the Repository:<br/> 
+ ```
 git clone https://github.com/yourusername/automated-media-player.git
 cd automated-media-player
+ ``` 
 
 3. Install Dependencies:
 pip install opencv-python mediapipe pyautogui
