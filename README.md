@@ -30,8 +30,7 @@ cd automated-media-player
 5. Run the Python Script:
 python media_player.py
 
-6. Usage:
-   
+6. Usage:<br/>   
 Ensure your webcam is connected and working.
 The script will open a window showing the video feed from your webcam.
 Use the following gestures to control media playback:
