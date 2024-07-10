@@ -1,14 +1,14 @@
 # Automated-Media-Player-using-Hand-Gestures
 This project is an Automated Media Player that allows users to control media playback using hand gestures. It leverages computer vision and machine learning technologies to provide an intuitive and natural way of interacting with media devices, making hands-free operation possible.
 
-Features:
+**Features:**
 1. Hand Landmark Detection: Detects 21 hand landmarks, including fingertips, knuckles, and the wrist.
 2. Real-time Gesture Recognition: Processes hand gestures in real-time to perform media control actions.
 3. Media Control: Supports gestures for playing/pausing, navigating tracks, adjusting volume, and more.
 4. Hands-Free Operation: Allows interaction without touching the device, ideal for various scenarios like cooking, exercising, or accessibility needs.
 5. Customizable Gestures: Easily extendable to include additional gestures for more controls.
 
-Getting Started:
+**Getting Started:** <br/> 
 Follow these steps to run the Automated Media Player on your device.
 
 1. Prerequisites:
