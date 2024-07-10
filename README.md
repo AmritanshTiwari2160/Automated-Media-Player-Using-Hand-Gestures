@@ -31,6 +31,7 @@ cd automated-media-player
 python media_player.py
 
 6. Usage:
+   
 Ensure your webcam is connected and working.
 The script will open a window showing the video feed from your webcam.
 Use the following gestures to control media playback:
@@ -40,5 +41,5 @@ Three Fingers Up: Increase volume.
 Four Fingers Up: Decrease volume.
 Five Fingers Up: Play/Pause.
 
-Contributing 🤝
+*Contributing 🤝
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
