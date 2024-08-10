@@ -12,6 +12,30 @@ This project is an Automated Media Player that allows users to control media pla
 
 ![Landmark Image](./Hand_Landmarks.png)
 
+### Hand Joints and Landmarks
+
+1. **WRIST**: Wrist
+2. **THUMB_CMC**: Thumb Carpometacarpal Joint
+3. **THUMB_MCP**: Thumb Metacarpophalangeal Joint
+4. **THUMB_IP**: Thumb Interphalangeal Joint
+5. **THUMB_TIP**: Thumb Tip
+6. **INDEX_FINGER_MCP**: Index Finger Metacarpophalangeal Joint
+7. **INDEX_FINGER_PIP**: Index Finger Proximal Interphalangeal Joint
+8. **INDEX_FINGER_DIP**: Index Finger Distal Interphalangeal Joint
+9. **INDEX_FINGER_TIP**: Index Finger Tip
+10. **MIDDLE_FINGER_MCP**: Middle Finger Metacarpophalangeal Joint
+11. **MIDDLE_FINGER_PIP**: Middle Finger Proximal Interphalangeal Joint
+12. **MIDDLE_FINGER_DIP**: Middle Finger Distal Interphalangeal Joint
+13. **MIDDLE_FINGER_TIP**: Middle Finger Tip
+14. **RING_FINGER_MCP**: Ring Finger Metacarpophalangeal Joint
+15. **RING_FINGER_PIP**: Ring Finger Proximal Interphalangeal Joint
+16. **RING_FINGER_DIP**: Ring Finger Distal Interphalangeal Joint
+17. **RING_FINGER_TIP**: Ring Finger Tip
+18. **PINKY_MCP**: Pinky Metacarpophalangeal Joint
+19. **PINKY_PIP**: Pinky Proximal Interphalangeal Joint
+20. **PINKY_DIP**: Pinky Distal Interphalangeal Joint
+21. **PINKY_TIP**: Pinky Tip
+
 ## Getting Started: 
 Follow these steps to run the Automated Media Player on your device.
 
