@@ -8,8 +8,10 @@ This project is an Automated Media Player that allows users to control media pla
 4. Hands-Free Operation: Allows interaction without touching the device, ideal for various scenarios like cooking, exercising, or accessibility needs.
 5. Customizable Gestures: Easily extendable to include additional gestures for more controls.
 
-![Landmark Image](./Hand_Landmarks.png)
+## Diagrammatic Representation of Hand Landmarks
 
+![Landmark Image](./Hand_Landmarks.png)
+<br/>
 **Getting Started:** <br/> 
 Follow these steps to run the Automated Media Player on your device.
 
